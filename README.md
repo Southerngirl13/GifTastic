@@ -4,7 +4,7 @@
 
 In this assignment, we used the GIPHY API to make a dynamic web page that populates with gifs of our choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
 
-![GIPHY](Images/1-giphy.jpg)
+<iframe src="https://giphy.com/embed/qJxFuXXWpkdEI" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-qJxFuXXWpkdEI">via GIPHY</a></p>
 
 ### Project Mandatories
 
