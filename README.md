@@ -23,3 +23,6 @@ In this assignment, we used the GIPHY API to make a dynamic web page that popula
 6. Add a form to the page that takes the value from a user input box and adds it into the `topics` array. Then make a function call that takes each topic in the array remakes the buttons on the page.
 
 7. Deploy the assignment to Github Pages.
+
+
+To visit deployed application, go to https://southerngirl13.github.io/GifTastic/
