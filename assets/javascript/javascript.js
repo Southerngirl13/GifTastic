@@ -6,7 +6,7 @@ $(function(){
  
  
  // array of search topics
- var searchArray = ["The Office", "Arrested Development", "30 Rock"];
+ var searchArray = ["The Office", "Arrested Development", "The 3 Stooges", "I Love Lucy", "Spinal Tap", "Disco Dancing",  "Sharks"];
  
  // function to add buttons to page after submitting input in the search area
  function populateButtons(searchArray, classToAdd, areaToAddTo){
