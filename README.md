@@ -1,5 +1,10 @@
 # GifTastic
 
+<h1 align="center">
+  <br>
+ <img src="images/giftastic.png" width="10%">
+</h1>
+
 ### Overview
 
 In this assignment, we used the GIPHY API to make a dynamic web page that populates with gifs of our choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
