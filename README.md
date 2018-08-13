@@ -1,5 +1,4 @@
 # GifTastic
-
 <h1 align="center">
   <br>
  <img src="assets/images/giftastic.png" width="100%">
