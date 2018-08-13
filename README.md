@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
- <img src="images/giftastic.png" width="10%">
+ <img src="assets/images/giftastic.png" width="100%">
 </h1>
 
 ### Overview
